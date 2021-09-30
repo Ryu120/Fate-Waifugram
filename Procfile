@@ -1,1 +1,1 @@
-worker: python3 -m Waifugram.py
+worker: python3 -m waifugram
